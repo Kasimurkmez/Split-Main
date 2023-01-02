@@ -1,2 +1,2 @@
-# Split-Main
-init
+# split
+try
